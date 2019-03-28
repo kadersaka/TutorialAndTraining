@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context="com.example.user.tutorialandtraining.About">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_marginBottom="5dp"
+        android:textColor="#040536"
+        android:textSize="30sp"
+        android:text="Tutorial Part(Education part):"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textColor="#7c041e"
+        android:layout_marginBottom="5dp"
+        android:textStyle="italic"
+        android:text="Add Items:
+        Anyone can add/upload images,important topis,pdfs in the add section part."
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textColor="#075008"
+        android:layout_marginBottom="5dp"
+        android:textStyle="italic"
+        android:text="Show Items:
+        In this section, we can show which item is uploaded.We can show images,important topics,pdfs.We can also delete images from them which does not need."
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginBottom="5dp"
+        android:textColor="#050735"
+        android:text="Send Items:
+        Anyone can send any important files to the email address and anyone can show some teachers and students email address too."
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textColor="#6e047c"
+        android:layout_marginBottom="5dp"
+        android:textStyle="italic"
+        android:text="Tutorials,Pdfs,Links:
+        Here some importants tutorials,pdfs,links are stored by defaultly."
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new6"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    tools:context="com.example.user.tutorialandtraining.StartGmail">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:src="@drawable/gmail"
+        android:layout_height="150dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#8c1803"
+        android:textStyle="italic"
+        android:layout_marginBottom="30dp"
+        android:text="Anyone Can Send Tutorials,Pdfs,
+       Images,Slides or Any Files
+            To The Gmail Account."
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/showgmailid"
+        android:textStyle="bold"
+        android:textSize="20sp"
+         android:textColor="#170966"
+        android:layout_height="70dp"
+        android:text="All Teachers AND STUDENTS GMAIL"
+        android:layout_marginBottom="20sp"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#6b0c34"
+        android:background="#bac6c3"
+        android:id="@+id/sendgmailid"
+        android:layout_height="60dp"
+        android:text="send"
+        />
+
+</LinearLayout>

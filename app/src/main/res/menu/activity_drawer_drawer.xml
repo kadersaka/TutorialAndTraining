@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/add2"
+            android:title="Add Items" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/show"
+            android:title="Show Items" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Send Items" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/imp"
+            android:title="Tutorials,Pdfs,Links" />
+
+
+        <item
+            android:id="@+id/aboutid"
+            android:icon="@drawable/learing2"
+            android:title="About" />
+
+    </group>
+
+
+</menu>

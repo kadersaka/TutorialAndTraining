@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/new7"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    tools:context="com.example.user.tutorialandtraining.AllGmails">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_width="wrap_content"
+            android:textAllCaps="false"
+            android:text="ENAMUL
+  HASSAN(Sir)"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="wrap_content"
+
+            android:textAllCaps="false"
+            android:text=" enamsustcse@gmail.com"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331505(CR)"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="mdrabbaninahid96@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331557(CR)"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="nobeldhar807@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_width="wrap_content"
+            android:text="2015331532"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="wrap_content"
+            android:textAllCaps="false"
+            android:text="sadiatonni1995@gmail.com"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331521"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="ranakjahanrupa67@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331503"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="aashrafulhridoy@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331516"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="siamarnab@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331556"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="samiradnansec09@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331527"
+                android:layout_height="wrap_content" />
+            <Button
+                android:textAllCaps="false"
+                android:layout_width="wrap_content"
+                android:text="arifamzad.bd@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331538"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="aliazad969@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331520"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="sagarthecoder@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331539"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="alvi7075@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331544"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="aliakbor05@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331534"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="ismailhoaen360@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331550"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="sisagor98@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331528"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="asadullahpranto@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331522"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="arunkumarbiplab121321@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331510"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="afrarjahin@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331513"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="sohelahmed1583@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="wrap_content"
+                android:text="2015331546"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="wrap_content"
+                android:textAllCaps="false"
+                android:text="tipusultan0163@gmail.com"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.user.tutorialandtraining.Home2">
+    <LinearLayout
+        android:layout_width="match_parent"
+
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:padding="30sp"
+       android:background="@drawable/new4"
+        android:layout_height="match_parent">
+
+
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:src="@drawable/showitem"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Section"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="#910730"
+        android:textSize="50sp"
+        android:layout_marginBottom="30sp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+
+        android:text="pictures"
+        android:textStyle="italic"
+        android:textAllCaps="false"
+        android:textColor="#144805"
+        android:textSize="30sp"
+        android:layout_marginBottom="30sp"
+        android:id="@+id/xid"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:textColor="#5e0529"
+        android:textAllCaps="false"
+        android:textStyle="italic"
+
+        android:textSize="30sp"
+        android:text="Important Topics and equestions"
+        android:id="@+id/yid"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+
+        android:text="PDF"
+        android:textStyle="italic"
+        android:textAllCaps="false"
+        android:textColor="#424805"
+        android:textSize="30sp"
+        android:layout_marginTop="30sp"
+        android:id="@+id/fetchpdfid"
+        />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

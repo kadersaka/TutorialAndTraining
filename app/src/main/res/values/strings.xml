@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TutorialAndTraining</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">LogOut</string>
+
+    <array name="genres">
+        <item>Data Base</item>
+        <item>Computer Architecture</item>
+        <item>Microprocessor</item>
+        <item>Operating System</item>
+        <item>Project Management</item>
+        <item>Data Communication System</item>
+    </array>
+</resources>

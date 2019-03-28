@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#a5e9be"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.user.tutorialandtraining.ResultTrue">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/hasi"
+        android:layout_marginBottom="10dp"
+         />
+
+
+    <TextView
+        android:layout_width="200dp"
+        android:id="@+id/resulttext1id"
+        android:layout_marginBottom="10dp"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="#57045e"
+        android:textStyle="bold"
+        android:layout_height="100dp"
+        android:text="congratulation"
+        />
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#890625"
+        android:textStyle="italic"
+        android:id="@+id/resulttext2id"
+        android:text="congratulation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/resulttextbuttonid"
+        android:text="stop"
+        />
+
+</LinearLayout>

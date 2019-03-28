@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/rain2"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.user.tutorialandtraining.TrueFalse">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:textAlignment="center"
+            android:text="Database Management System"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#5e1505"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+
+        android:id="@+id/truefalsescroeid"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Score"
+            android:fontFamily="casual"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:textColor="#6e0748"
+            android:layout_alignParentLeft="true"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/truescoreid"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:fontFamily="casual"
+            android:textColor="#0a1671"
+            android:textStyle="bold"
+            android:text="0"
+            android:textSize="40sp"
+            />
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/hasi"
+        android:id="@+id/trueimageviewid"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:id="@+id/trueque1id"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#930829"
+        android:padding="8dp"
+        android:text="magnet hva th piod"
+        android:layout_marginBottom="10dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+
+        android:layout_height="100dp">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:text="true"
+            android:layout_marginLeft="90dp"
+            android:textStyle="bold"
+            android:background="#1dcc14"
+            android:textSize="30sp"
+
+            android:id="@+id/truebtn1id"
+
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:text="false"
+            android:textStyle="bold"
+            android:background="#ff22"
+            android:textSize="30sp"
+            android:id="@+id/truebtn2id"
+
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

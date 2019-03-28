@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="10dp"
+    android:background="@drawable/new7"
+    android:paddingTop="16dp"
+    tools:context="com.example.user.tutorialandtraining.QuizActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:textAlignment="center"
+            android:text="Database Management System"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#5e1505"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Score"
+            android:textColor="#8f0782"
+            android:textSize="30sp"
+            android:id="@+id/scoreid"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/scroeid2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:textColor="#10100f"
+            android:layout_alignParentTop="true"
+            android:text="0"
+            android:textSize="35sp" />
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:text="which is your name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#2e075b"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/firstqueid"
+        android:layout_height="130dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tonni"
+        android:textSize="20sp"
+        android:textColor="#940627"
+        android:background="#2649d6"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/firstoptionid"
+        />
+
+    <Button
+        android:id="@+id/secondoptionid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp"
+        android:background="#2e5fd9"
+        android:padding="8dp"
+        android:text="tonni"
+        android:textColor="#87061e" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tonni"
+        android:textColor="#810623"
+        android:background="#2a48da"
+        android:textSize="20sp"
+        android:padding="8dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/thridoptionid"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="quit"
+        android:textColor="#ff2"
+        android:textSize="20sp"
+        android:background="#ec3f3f"
+        android:padding="8dp"
+        android:layout_marginBottom="2dp"
+        android:id="@+id/quitid"
+        />
+
+</LinearLayout>
